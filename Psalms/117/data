@@ -1,5 +1,3 @@
 \c 117
-\q1
-\v 1 Line one.
-\q1 Line two.
-\q1 Line three\f + \fr 117.1\fk  keyword\ft  Text\f*.
+\p
+\v 1 Linee one\f + \fr 117.1\fk  keyword\ft  Text.\f*.
