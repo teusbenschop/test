@@ -1,4 +1,3 @@
 \c 117
 \p
-\v 1 Line one.
-\f \notebody1 1\notebody1* + \fr 117.1\fk  keyword\ft  Text.\f*
+\v 1 Line\f + \fr 117.1\fk  keyword\ft  Text.\f* one.
