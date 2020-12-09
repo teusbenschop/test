@@ -1,4 +1,5 @@
 \c 117
 \p
-\v 1 Line\x + \xo 117.1\xt  Text.\x* one.
+\v 1 Line one.
+\x \notebody1 1\notebody1* + \xo 117.1\xt  Text.\x*
 \v 2 Line two.
